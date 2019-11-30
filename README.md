@@ -1,2 +1,2 @@
 # adder
-Binary Adder using Keras
+Binary Adder using RNN in Keras
