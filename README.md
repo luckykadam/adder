@@ -3,8 +3,8 @@ Simple experiments to create Binary Adder in Keras.
 
 ## Corresponding blogs
 
-1. <a href="https://luckykadam.github.io/ml/2020/01/10/rnn-full-adder.html">Custom RNN to create Binary Full Adder</a>
-1. <a href="https://luckykadam.github.io/ml/2019/12/17/full-adder.html">Binary Full Adder in Keras</a>
+1. <a href="https://luckykadam.github.io/ml/2020/01/10/rnn-full-adder.html">Build your Custom RNN using Keras</a>
+1. <a href="https://luckykadam.github.io/ml/2019/12/17/full-adder.html">Into the Keras Rabbit Hole</a>
 
 ## Python notebooks
 
