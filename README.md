@@ -16,4 +16,6 @@ Simple experiments to create Binary Adder in Keras.
 
 ## Further read
 
-React native app to add two numbers using the tensorflow model: https://github.com/luckykadam/adder_app . It uses <a href="https://github.com/tensorflow/tfjs/tree/master/tfjs-react-native">tfjs-react-native</a>, very recently released library (https://blog.tensorflow.org/2020/02/tensorflowjs-for-react-native-is-here.html).
+React native app to add two numbers using the tensorflow model: https://github.com/luckykadam/adder_app
+
+It uses <a href="https://github.com/tensorflow/tfjs/tree/master/tfjs-react-native">tfjs-react-native</a>, very recently released library (https://blog.tensorflow.org/2020/02/tensorflowjs-for-react-native-is-here.html).
