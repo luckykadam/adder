@@ -1,11 +1,6 @@
 # adder
 Simple experiments to create Binary Adder in Keras.
 
-## Corresponding blogs
-
-1. <a href="https://luckykadam.github.io/posts/full-adder//">Into the Keras Rabbit Hole</a>
-2. <a href="https://luckykadam.github.io/posts/rnn-full-adder//">Build your Custom RNN using Keras</a>
-
 ## Python notebooks
 
 1. Half adder using NN in Keras: https://github.com/luckykadam/adder/blob/master/half_adder.ipynb
